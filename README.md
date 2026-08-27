@@ -101,10 +101,6 @@ Sample: `profiles/Quantum-USB-Gamepad-Sample.json`
 | Axes | Named X/Y/Z/Rz/… | Stick LX/LY/RX/RY |
 | This app | **Primary target** | Not native; optional virtual bridge only |
 
-## Optional virtual controller
-
-Calibration works **without** any virtual driver.  
-`NullVirtualGamepadBridge` explains install requirements if you later add ViGEmBus (or similar) — never auto-installed.
 
 ## Project layout
 

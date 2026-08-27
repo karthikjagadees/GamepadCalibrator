@@ -1,4 +1,4 @@
-# Gamepad Calibrator
+# gamepad Calibrator
 
 Professional Windows 10/11 utility for detecting, diagnosing, calibrating, normalizing, remapping, and testing **generic USB / DirectInput** game controllers (including Quantum QHM7468-family pads that appear as `Generic USB Joystick`).
 

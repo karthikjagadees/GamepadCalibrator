@@ -1,0 +1,74 @@
+{
+  "profileName": "Default",
+  "friendlyName": "Quantum USB Gamepad",
+  "device": {
+    "vendorId": 121,
+    "productId": 6,
+    "name": "Generic USB Joystick",
+    "manufacturer": "DragonRise",
+    "usagePage": 1,
+    "usage": 4
+  },
+  "leftStick": {
+    "horizontal": "X",
+    "vertical": "Y",
+    "invertHorizontal": false,
+    "invertVertical": false,
+    "deadZone": 0.05
+  },
+  "rightStick": {
+    "horizontal": "Z",
+    "vertical": "RotationZ",
+    "invertHorizontal": false,
+    "invertVertical": false,
+    "deadZone": 0.05
+  },
+  "axes": [
+    {
+      "axis": "X",
+      "center": 40,
+      "minimum": 0,
+      "maximum": 255,
+      "deadZone": 0.05,
+      "antiDeadZone": 0,
+      "invert": false,
+      "sensitivity": 1.0,
+      "isCalibrated": true
+    },
+    {
+      "axis": "Y",
+      "center": 128,
+      "minimum": 0,
+      "maximum": 255,
+      "deadZone": 0.05,
+      "antiDeadZone": 0,
+      "invert": false,
+      "sensitivity": 1.0,
+      "isCalibrated": false
+    },
+    {
+      "axis": "Z",
+      "center": 128,
+      "minimum": 0,
+      "maximum": 255,
+      "deadZone": 0.05,
+      "antiDeadZone": 0,
+      "invert": false,
+      "sensitivity": 1.0,
+      "isCalibrated": false
+    },
+    {
+      "axis": "RotationZ",
+      "center": 128,
+      "minimum": 0,
+      "maximum": 255,
+      "deadZone": 0.05,
+      "antiDeadZone": 0,
+      "invert": false,
+      "sensitivity": 1.0,
+      "isCalibrated": false
+    }
+  ],
+  "updatedUtc": "2026-08-27T00:00:00+00:00",
+  "notes": "Sample profile for Quantum QHM7468-family / DragonRise 0079:0006. Re-run discovery on your hardware — do not trust these centers blindly."
+}

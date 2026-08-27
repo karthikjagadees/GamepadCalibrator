@@ -1,0 +1,9 @@
+# Ignore build outputs
+**/bin/
+**/obj/
+**/publish/
+**/publish-sc/
+.vs/
+*.user
+*.suo
+%LocalAppData%/
